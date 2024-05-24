@@ -1,0 +1,6 @@
+@LuegoPago_HostAddress = http://localhost:5041
+
+GET {{LuegoPago_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
